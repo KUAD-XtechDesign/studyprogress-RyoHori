@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: 100px;
+  color: #69821b;
+  font-family: serif;
+}
+.icon{
+  float: left;
+
+}
+.icon_img{
+  margin-left: 300px;
+
+}
+.tw_link{
+  clear: both;
+  margin-top: 30px;
+margin-left: 300px;
+float: left;
+}
+.in_link{
+  margin-top: 30px;
+}
+.about_me{
+  float: left;
+  margin-left: 200px;
+}
+.nav {
+  border-top: 1px solid #69821b;
+  margin-top: 100px;
+  margin-bottom: 200px;
+    display: inline-table;
+    width: 60%;
+    background-color: rgba(33, 39, 98, 0);
+}
+.nav__item {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.nav__item a {
+    display: block;
+    padding: 15px 0;
+    color: #69821b;
+    text-decoration: none;
+    font-size: 14px;
+}

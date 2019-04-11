@@ -1,0 +1,46 @@
+body {
+  line-height: 50px;
+  background-image: url("../img/pic/R0003166.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #FFFF;
+  margin-left: 5em;
+}
+li {
+  list-style-type: none;
+  font-family: serif;
+}
+p{
+  margin-bottom: 10em;
+}
+a {
+    display: block;
+    padding: 15px 0;
+    color: #FFFF;
+    text-decoration: none;
+    font-size: 16px;
+}
+.report_mozi{
+  margin-bottom: 15em;
+}
+
+.report_log {
+    display: inline-table;
+    width: 80%;
+    background-color: rgba(33, 39, 98, 0);
+}
+.report_log_item {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.report_log_item a {
+    display: block;
+    padding: 15px 0;
+    margin-top: 2em;
+    margin-right: 2em;
+    color: #FFFF;
+    text-decoration: none;
+    font-size: 20px;
+}
